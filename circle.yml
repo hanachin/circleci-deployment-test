@@ -11,3 +11,4 @@ deployment:
       - |
         ruby -e 'system("ruby -v")'
       - gem -v
+      - bundler --version
